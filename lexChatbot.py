@@ -18,6 +18,9 @@
                     }
     except :
         pass
-    
-    try: 
+
+    try:
+        print "Hello World"
+    except:
+        pass
     return response
